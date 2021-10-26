@@ -1,0 +1,169 @@
+<mjml>
+  <mj-head>
+    
+    <mj-title>Saintart</mj-title>
+    <mj-preview>Saintart</mj-preview>
+    
+    <mj-style>
+      .link{color: #000000 !important; text-decoration: none !important;}
+      
+      @media only screen and (max-width:600px) {
+
+      .cta { width: 290px !important; padding: 0px !important;}
+      .cta > table { width: 290px !important;}
+      .cta a { width: 290px !important;padding: 5px 0px !important;}
+ .padL20 {padding-left: 20px !important; }
+      .padR20 {padding-right: 20px !important; }
+      .padL30 {padding-left: 30px !important; }
+      .padR30 {padding-right: 30px !important; }
+      .padL10 {padding-left: 10px !important; }
+      .padR10 {padding-right: 10px !important; }
+      .padB70 {padding-bottom: 70px !important;}
+      .padB60 > table > tbody > tr > td {padding-bottom: 60px !important;}
+      .padB55 > table > tbody > tr > td {padding-bottom: 55px !important;}
+      .w100pct {width: 100% !important; }
+      .desktop {display: none !important; }
+      .padB80{padding-bottom: 80px !important;}
+      .padT0 > table > tbody > tr > td {padding-top: 0px !important;}
+      .padT120 { padding-top: 120px !important; }
+      .centerOnMobile > table { text-align: center !important; margin: 0 auto !important;}
+      .mw380 {min-width: 380px !important; }
+      .fs24 > div{ font-size: 24px !important; line-height: 28px !important; }
+      .w223 > table { width: 223px !important; }    	
+      .w101 { width: 101px !important; }    
+      .padL32 { padding-left: 32px !important; }
+      .padL0 { padding-left: 0px !important; }
+      .padR0 { padding-right: 0px !important; }
+      .fs18 > div { font-size: 18px !important; line-height: 22px !important; }
+      .padR0 > table > tbody > tr > td { padding-right: 0px !important; }
+      .padL35 > table > tbody > tr > td { padding-left: 35px !important; }
+
+      /**
+			Products module CSS
+      **/
+      .productsHeadline{padding: 40px 20px 40px 20px !important;}
+      .productsSection > table > tbody > tr > td{ padding-left: 10px !important; padding-right: 10px !important;}
+      .product { padding-left: 10px !important; padding-right: 10px !important;}
+      .text-center > div { text-align: center !important; margin: 0 auto !important;}
+      }
+      
+      
+    </mj-style>
+     <mj-style inline="inline">
+      .breakAll > div {
+        word-break: break-all;
+      }
+    </mj-style>
+  <mj-attributes>
+    <mj-wrapper 
+      padding="0"
+    />
+    <mj-section 
+      padding="0" 
+    />
+    <mj-image 
+      padding="0"
+    />
+    <mj-text 
+      padding="0" 
+     />
+    <mj-all 
+      font-family="Helvetica" 
+      font-weight="400" 
+    />
+    <mj-body
+      width="720px"
+      background-color="#FFFFFF"
+    />
+  </mj-attributes>
+  </mj-head>
+      <mj-section css-class="padL20 padR20" padding-bottom="0px">
+      <mj-column width="540px">
+        <mj-image padding="34px 0 34px 0"  href="https://saintartnewyork.com/" alt="Logo" width="344px" src="https://images.scalero.io/email_assets/1525/BG5I6GKX5HWPAP8L0UDZCJ5DYHTJX4VYWV4AH99ACI01KGHY57OX5ZBY0OKF1GI4.png" />
+      </mj-column>
+    </mj-section>
+  </mj-head>
+  <mj-body>
+          <mj-section css-class="padL20 padR20" padding-bottom="0px">
+      <mj-column width="540px">
+        <mj-image padding="34px 0 34px 0"  href="https://saintartnewyork.com/" alt="Logo" width="344px" src="https://images.scalero.io/email_assets/1525/BG5I6GKX5HWPAP8L0UDZCJ5DYHTJX4VYWV4AH99ACI01KGHY57OX5ZBY0OKF1GI4.png" />
+      </mj-column>
+    </mj-section>
+    
+		<mj-section>
+    	<mj-column width="596px">
+      	<mj-text css-class="productsHeadline" align="center" color="#000000" font-size="36px" line-height="40px" font-weight="300" letter-spacing="-0.96px" padding="50px 45px 50px 45px">
+        	LOREM IPSUM DOLOR.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="productsSection" padding="0px 45px 50px 45px">
+      
+       <mj-column>
+      	<mj-image css-class="product" align="center" alt="Image" href="https://saintartnewyork.com" width="176px" padding="0px 17px 0px 17px" src="https://images.scalero.io/email_assets/1568/FT3SJQU7397TA6NG0UUSV1L36Z8MSTU8M9CMWFZA9EZ2OPO1HBKBKWSG8VYZNDSC.png" />
+         <mj-text css-class="product text-center" align="left" color="#000000" font-size="13px" line-height="24px" font-weight="300" padding="0px 17px 0px 17px">
+        	LOREM IPSUM DOLOR SIT
+        </mj-text>
+       </mj-column>
+       <mj-column>
+      	<mj-image css-class="product" align="center" alt="Image" href="https://saintartnewyork.com" width="176px" padding="0px 17px 0px 17px" src="https://images.scalero.io/email_assets/1568/FT3SJQU7397TA6NG0UUSV1L36Z8MSTU8M9CMWFZA9EZ2OPO1HBKBKWSG8VYZNDSC.png" />
+         <mj-text css-class="product text-center" align="left" color="#000000" font-size="13px" line-height="24px" font-weight="300" padding="0px 17px 0px 17px">
+        	LOREM IPSUM DOLOR SIT
+        </mj-text>
+       </mj-column>
+       <mj-column>
+      	<mj-image css-class="product" align="center" alt="Image" href="https://saintartnewyork.com" width="176px" padding="0px 17px 0px 17px" src="https://images.scalero.io/email_assets/1568/FT3SJQU7397TA6NG0UUSV1L36Z8MSTU8M9CMWFZA9EZ2OPO1HBKBKWSG8VYZNDSC.png" />
+         <mj-text css-class="product text-center" align="left" color="#000000" font-size="13px" line-height="24px" font-weight="300" padding="0px 17px 0px 17px">
+        	LOREM IPSUM DOLOR SIT
+        </mj-text>
+       </mj-column>
+      
+    </mj-section>
+ <mj-section css-class="padL20 padR20" padding-bottom="50px">
+     <mj-column>
+        <mj-button css-class="cta" href="https://saintartnewyork.com/" border-radius="8px" font-family="Helvetica" font-weight="700" color="#000000" font-size="36px" line-height="43px" inner-padding="2px 15px 2px 15px" border="2px solid #000000" background-color="#ffffff">
+            CTA <mj-raw><img style="border:0; width: 22px;" src="https://images.scalero.io/email_assets/1525/RTADQS1QZLC7BVVUN1967P5YQL7K1AWXJDYRQXJZTUBX20YJVX18NIFVR83K9ATS.png" alt="image" width="26" /></mj-raw>
+          </mj-button>
+     </mj-column>
+    </mj-section>
+        <mj-section css-class="padL20 padR20 padB60" padding-bottom="50px">
+      <mj-column width="600px" background-color="#000000">
+        
+        <mj-text css-class="fs24 padL30 padR30" align="center" font-size="25px" line-height="40px" font-weight="300" color="#FFFFFF" padding-bottom="30px" padding-top="35px" text-transform="uppercase" letter-spacing="-1px">
+        	Each piece is novel, unique,
+and of the highest-quality.
+        </mj-text>
+        
+      </mj-column>
+    </mj-section>
+    
+  <mj-section css-class="padL20 padR20" padding-bottom="50px">
+     <mj-column>
+        <mj-button css-class="cta" href="https://saintartnewyork.com/" border-radius="8px" font-family="Helvetica" font-weight="700" color="#000000" font-size="36px" line-height="43px" inner-padding="2px 15px 2px 15px" border="2px solid #000000" background-color="#ffffff">
+            CTA <mj-raw><img style="border:0; width: 22px;" src="https://images.scalero.io/email_assets/1525/RTADQS1QZLC7BVVUN1967P5YQL7K1AWXJDYRQXJZTUBX20YJVX18NIFVR83K9ATS.png" alt="image" width="26" /></mj-raw>
+          </mj-button>
+     </mj-column>
+    </mj-section>
+<mj-section css-class="padR20 padL20" >
+        <mj-column width="380px" css-class="mw380" border-bottom="solid 1px #000000;">
+            <mj-image href="https://saintartnewyork.com/" alt="logo" width="226px" src="https://images.scalero.io/email_assets/1525/BG5I6GKX5HWPAP8L0UDZCJ5DYHTJX4VYWV4AH99ACI01KGHY57OX5ZBY0OKF1GI4.png" />
+            <mj-text color="#000000" font-size="14px" line-height="15px" font-weight="400" padding="10px 0 12px 0" align="center">
+            IG  <a class="link" href="https://www.instagram.com/saintartnewyork/" style="color:#000000; font-weight:400;text-decoration: none;" target="_blank">@SAINTARTNEWYORK </a>TT <a class="link" href="https://www.tiktok.com/@saintartny?lang=en" style="color:#000000; font-weight:400;text-decoration: none;" target="_blank">@SAINTARTNEWYORK</a><br/>
+            <a class="link" href="https://saintartnewyork.com/" style="color:#000000; font-weight:400;text-decoration: none;" target="_blank">SAINTARTNEWYORK.COM</a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+    
+    <mj-section css-class="padR20 padL20">
+        <mj-column>
+            <mj-text color="#000000" font-size="14px" line-height="15px" font-weight="400" padding="10px 0 13px 0" align="center">
+              <a href="https://saintartnewyork.com/" class="link" style="color:#000000; font-weight:400; text-decoration: none;">SAINT ART, 75 GRAND STREET NEW YORK 10013</a>
+            <br/>
+            <a href="https://saintartnewyork.com/" class="link" style="color:#000000; font-weight:400; text-decoration: none;">OPT-OUT</a>
+            </mj-text>
+            
+        </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
